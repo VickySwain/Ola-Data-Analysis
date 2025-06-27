@@ -88,4 +88,4 @@ SELECT
 FROM bookings
 WHERE Incomplete_Rides_Reason IS NOT NULL;
 
-select* from incomplete_rides_with_reason;
+select* from incomplete_rides_with_reason; 

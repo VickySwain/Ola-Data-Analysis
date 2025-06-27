@@ -199,3 +199,4 @@ Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Dro
 2024-07-19 22:54:00,22:54:00,CNR2051641681,Success,CID776786,Auto,Ulsoor,Kadugodi,294.0,65.0,,,No,,295,Cash,6,3.5,3.2,#NAME?,
 2024-07-04 0:38:00,00:38:00,CNR6963252366,Success,CID565564,Bike,Yeshwanthpur,Kadugodi,168.0,145.0,,,No,,794,Cash,25,4.8,4.0,#NAME?,
 2024-07-02 22:59:00,22:59:00,CNR6561084640,Success,CID983895,Bike,Kengeri,Magadi Road,301.0,110.0,,,No,,330,Cash,27,4.0,4.1,#NAME?,
+ 
